@@ -1,0 +1,21 @@
+.container {
+  background:#fff;
+  max-width: 100%;
+  width: 100%;
+  padding: 0px;
+  margin: 39px 0px 0px 0px;
+}
+
+.beaconContainer{
+  position:fixed;
+  overflow-y:scroll;
+  height:100%;
+  top:39px;
+  width:300px;
+  background: #f8f8f8;
+  border-right: #ccc solid 1px;
+}
+
+.dataContainer{
+  margin-left: 300px;
+}

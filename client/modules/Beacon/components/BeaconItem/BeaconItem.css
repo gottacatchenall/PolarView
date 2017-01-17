@@ -1,0 +1,18 @@
+.beaconItem{
+  padding:5px 10px;
+  font-family:Helvetica;
+  font-weight:100;
+}
+
+.beaconItem:hover{
+  background:#ccc;
+}
+
+.activeBeaconItem{
+  background:#e2e2e2;
+}
+
+
+.inactiveBeaconItem{
+
+}
